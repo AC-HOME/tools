@@ -1,0 +1,1 @@
+2.6.1 激活方法：点击IDEA菜单 Tools-> MybatisCodeHelper-> offlineActivation，输入任意激活码
